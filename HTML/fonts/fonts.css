@@ -1,0 +1,20 @@
+/** Proxima Nova **/
+
+@font-face {
+    font-family: 'Proxima-nova-Black';
+    src: url('../fonts/Proxima-nova-Black.woff') format('woff'),
+         url('../fonts/Proxima-nova-Black.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Proxima-Nova-Bold';
+    src: url('../fonts/Proxima-Nova-Bold.woff') format('woff'),
+         url('../fonts/Proxima-Nova-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
